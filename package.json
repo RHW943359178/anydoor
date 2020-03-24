@@ -1,0 +1,24 @@
+{
+  "name": "anydoor",
+  "version": "1.0.0",
+  "description": "a web server",
+  "main": "index.js",
+  "scripts": {
+    "test": "eslint"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RHW943359178/anydoor.git"
+  },
+  "author": "rhw",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/RHW943359178/anydoor/issues"
+  },
+  "homepage": "https://github.com/RHW943359178/anydoor#readme",
+  "keywords": [],
+  "dependencies": {
+    "chalk": "^3.0.0",
+    "supervisor": "^0.12.0"
+  }
+}
