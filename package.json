@@ -1,10 +1,10 @@
 {
-  "name": "anyLevel",
+  "name": "anydoor",
   "version": "0.1.1",
   "description": "a web server",
   "main": "arc/app.js",
   "bin": {
-    "anyLevel": "bin/anyLevel"
+    "anydoor": "bin/anydoor"
   },
   "scripts": {
     "test": "eslint"
