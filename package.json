@@ -1,5 +1,5 @@
 {
-  "name": "anydoor",
+  "name": "anyLevel",
   "version": "0.1.1",
   "description": "a web server",
   "main": "arc/app.js",
