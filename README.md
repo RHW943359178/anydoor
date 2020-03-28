@@ -1,2 +1,3 @@
 # anydoor
-A tiny nodeJS Static Web server
+A Static Web server
+
